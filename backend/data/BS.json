@@ -1,0 +1,144 @@
+{
+"Balance Sheet":[
+ {
+  "Balance Sheet": "Demo Company (Global)"
+ },
+ {
+  "Balance Sheet": "As at 30 April 2024"
+ },
+ null,
+ {
+  "Column2": "Account",
+  "Column3": "30 Apr 2024",
+  "Column4": "30 Mar 2024",
+  "Column5": "29 Feb 2024"
+ },
+ null,
+ {
+  "Balance Sheet": "Assets"
+ },
+ {
+  "Column2": "Bank"
+ },
+ {
+  "Column2": "Business Bank Account",
+  "Column3": 3353.14,
+  "Column4": 3706.95,
+  "Column5": 4130.98
+ },
+ {
+  "Column2": "Total Bank",
+  "Column3": 3353.14,
+  "Column4": 3706.95,
+  "Column5": 4130.98
+ },
+ {
+  "Column2": "Current Assets"
+ },
+ {
+  "Column2": "Accounts Receivable",
+  "Column3": 6946.33,
+  "Column4": 9143.75,
+  "Column5": 0
+ },
+ {
+  "Column2": "Total Current Assets",
+  "Column3": 6946.33,
+  "Column4": 9143.75,
+  "Column5": 0
+ },
+ {
+  "Column2": "Fixed Assets"
+ },
+ {
+  "Column2": "Computer Equipment",
+  "Column3": 1804.5,
+  "Column4": 1804.5,
+  "Column5": 0
+ },
+ {
+  "Column2": "Office Equipment",
+  "Column3": 923.79,
+  "Column4": 0,
+  "Column5": 0
+ },
+ {
+  "Column2": "Total Fixed Assets",
+  "Column3": 2728.29,
+  "Column4": 1804.5,
+  "Column5": 0
+ },
+ {
+  "Balance Sheet": "Total Assets",
+  "Column3": 13027.76,
+  "Column4": 14655.2,
+  "Column5": 4130.98
+ },
+ null,
+ {
+  "Balance Sheet": "Liabilities"
+ },
+ {
+  "Column2": "Current Liabilities"
+ },
+ {
+  "Column2": "Accounts Payable",
+  "Column3": 2242,
+  "Column4": 3646.34,
+  "Column5": 18.9
+ },
+ {
+  "Column2": "Historical Adjustment",
+  "Column3": 4130.98,
+  "Column4": 4130.98,
+  "Column5": 4130.98
+ },
+ {
+  "Column2": "Sales Tax",
+  "Column3": 419.35,
+  "Column4": 389.54,
+  "Column5": 0
+ },
+ {
+  "Column2": "Total Current Liabilities",
+  "Column3": 6792.33,
+  "Column4": 8166.86,
+  "Column5": 4149.88
+ },
+ {
+  "Balance Sheet": "Total Liabilities",
+  "Column3": 6792.33,
+  "Column4": 8166.86,
+  "Column5": 4149.88
+ },
+ null,
+ {
+  "Column2": "Net Assets",
+  "Column3": 6235.43,
+  "Column4": 6488.34,
+  "Column5": -18.9
+ },
+ null,
+ {
+  "Balance Sheet": "Equity"
+ },
+ {
+  "Column2": "Current Year Earnings",
+  "Column3": 6254.33,
+  "Column4": 6507.24,
+  "Column5": 0
+ },
+ {
+  "Column2": "Retained Earnings",
+  "Column3": -18.9,
+  "Column4": -18.9,
+  "Column5": -18.9
+ },
+ {
+  "Balance Sheet": "Total Equity",
+  "Column3": 6235.43,
+  "Column4": 6488.34,
+  "Column5": -18.9
+ }
+]
+}

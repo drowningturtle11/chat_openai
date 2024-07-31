@@ -1,0 +1,151 @@
+{
+"Profit and Loss":[
+ {
+  "Profit and Loss": "Demo Company (Global)"
+ },
+ {
+  "Profit and Loss": "For the period 1 May 2024 to 13 May 2024"
+ },
+ null,
+ {
+  "Profit and Loss": "Account",
+  "Column2": "1 May-13 May 2024",
+  "Column3": "1 Apr-13 Apr 2024",
+  "Column4": "1 Mar-13 Mar 2024"
+ },
+ null,
+ {
+  "Profit and Loss": "Trading Income"
+ },
+ {
+  "Profit and Loss": "Sales",
+  "Column2": 2067.6,
+  "Column3": 2994.95,
+  "Column4": 2730.95
+ },
+ {
+  "Profit and Loss": "Total Trading Income",
+  "Column2": 2067.6,
+  "Column3": 2994.95,
+  "Column4": 2730.95
+ },
+ null,
+ {
+  "Profit and Loss": "Cost of Sales"
+ },
+ {
+  "Profit and Loss": "Purchases",
+  "Column2": 775.98,
+  "Column3": 0,
+  "Column4": 0
+ },
+ {
+  "Profit and Loss": "Total Cost of Sales",
+  "Column2": 775.98,
+  "Column3": 0,
+  "Column4": 0
+ },
+ null,
+ {
+  "Profit and Loss": "Gross Profit",
+  "Column2": 1291.62,
+  "Column3": 2994.95,
+  "Column4": 2730.95
+ },
+ null,
+ {
+  "Profit and Loss": "Operating Expenses"
+ },
+ {
+  "Profit and Loss": "Advertising",
+  "Column2": 2309.47,
+  "Column3": 5500,
+  "Column4": 0
+ },
+ {
+  "Profit and Loss": "Bank Fees",
+  "Column2": 0,
+  "Column3": 15,
+  "Column4": 15
+ },
+ {
+  "Profit and Loss": "Consulting & Accounting",
+  "Column2": 29,
+  "Column3": 29,
+  "Column4": 29
+ },
+ {
+  "Profit and Loss": "Entertainment",
+  "Column2": 0,
+  "Column3": 1500,
+  "Column4": 16
+ },
+ {
+  "Profit and Loss": "Freight & Courier",
+  "Column2": 105.5,
+  "Column3": 0,
+  "Column4": 0
+ },
+ {
+  "Profit and Loss": "General Expenses",
+  "Column2": 120.09,
+  "Column3": 0,
+  "Column4": 0
+ },
+ {
+  "Profit and Loss": "Light, Power, Heating",
+  "Column2": 100.32,
+  "Column3": 125.5,
+  "Column4": 110
+ },
+ {
+  "Profit and Loss": "Motor Vehicle Expenses",
+  "Column2": 380,
+  "Column3": 137.18,
+  "Column4": 0
+ },
+ {
+  "Profit and Loss": "Office Expenses",
+  "Column2": 107.11,
+  "Column3": 308.75,
+  "Column4": 60.23
+ },
+ {
+  "Profit and Loss": "Printing & Stationery",
+  "Column2": 0,
+  "Column3": 27.25,
+  "Column4": 21.71
+ },
+ {
+  "Profit and Loss": "Rent",
+  "Column2": 1091.22,
+  "Column3": 1091.22,
+  "Column4": 1091.22
+ },
+ {
+  "Profit and Loss": "Telephone & Internet",
+  "Column2": 50,
+  "Column3": 43.25,
+  "Column4": 41.5
+ },
+ {
+  "Profit and Loss": "Travel - National",
+  "Column2": 223.56,
+  "Column3": 0,
+  "Column4": 32.24
+ },
+ {
+  "Profit and Loss": "Total Operating Expenses",
+  "Column2": 4516.27,
+  "Column3": 8777.15,
+  "Column4": 1416.9
+ },
+ null,
+ {
+  "Profit and Loss": "Net Profit",
+  "Column2": -3224.65,
+  "Column3": -5782.2,
+  "Column4": 1314.05
+ }
+]
+}
