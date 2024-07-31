@@ -7,7 +7,6 @@ import 'dotenv/config';
 const app = express();
 app.use(express.json());
 
-// Updated CORS configuration
 const corsOptions = {
   origin: process.env.FRONTEND_URL, // Allow only your frontend URL
   optionsSuccessStatus: 200,
@@ -46,6 +45,10 @@ async function setupAssistant() {
   return { assistant };
 }
 
+const cleanReplyText = (text) => {
+  return text.replace(/\【\d+:\d+†[^】]+】/g, '').trim();
+};
+
 setupAssistant().then(({ assistant }) => {
   app.post('/api/chat', async (req, res) => {
     try {
@@ -70,6 +73,7 @@ setupAssistant().then(({ assistant }) => {
       });
 
       let replyText = '';
+
       stream
         .on("messageDone", async (event) => {
           if (event.content[0]?.type === "text") {
@@ -79,6 +83,7 @@ setupAssistant().then(({ assistant }) => {
         })
         .on("end", () => {
           if (replyText) {
+            replyText = cleanReplyText(replyText);  // Clean the reply text here
             if (!userConversations[userId]) {
               userConversations[userId] = [];
             }
